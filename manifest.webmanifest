@@ -1,0 +1,6 @@
+{
+    "short_name": "MM",
+    "name": "MAISON MÈRE",
+    "start_url": "/index.html",
+    "display": "standalone"
+}
